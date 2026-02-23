@@ -1,0 +1,21 @@
+{
+  "name": "Neon-Shift",
+  "short_name": "NeonShift",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020205",
+  "theme_color": "#00ffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/00ffff/000000?text=NS",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/00ffff/000000?text=NeonShift",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -2,8 +2,5 @@ node_modules/
 android/app/build/
 android/.gradle/
 android/local.properties
-www/service-worker.js
-www/manifest.json
-www/index.html
-# 위 파일들은 빌드 타겟이므로 소스에서 제외할 수도 있지만, 
-# 현재 구조상 www 폴더는 포함해야 하므로 아래와 같이 수정합니다.
+.DS_Store
+# 빌드 결과물은 제외하지만 www 소스 코드는 포함합니다.
