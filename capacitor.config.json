@@ -1,0 +1,6 @@
+{
+  "appId": "com.neonshift.game",
+  "appName": "Neon-Shift",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
